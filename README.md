@@ -6,8 +6,6 @@ ChatGPT网页端，无需基础即可搭建！
 
 注：js未加验证，请自行加验证
 
-个人微信：956746 
-
-QQ群：638155508
+新版端试用地址：https://89chat.cn/
 
 ![image](https://user-images.githubusercontent.com/22384145/227444366-49bab13a-5692-46c1-97a9-0f09c7bddc77.png)
